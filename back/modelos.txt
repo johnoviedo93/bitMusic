@@ -1,0 +1,27 @@
+user{
+    nombre
+    apellido
+    correo
+    contraseña
+    role
+    imagen
+}
+cancion{
+    numero
+    nombre
+    duracion
+    archivo
+    _id_album
+}
+album{
+    titulo
+    descripcion
+    año
+    imagen_album
+    _id_artist
+}
+artista{
+    nombre
+    descripcion
+    imagen
+}
